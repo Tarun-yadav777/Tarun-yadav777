@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Tarun Yadav</h1>
 <h3 align="center">My affection toward AI fascinates me to learn about ML, DL, NLP and Computer Vision</h3>
 
-<p align="left"> <a href="https://twitter.com/taronic777" target="blank"><img src="https://img.shields.io/twitter/follow/taronic777?logo=twitter&style=for-the-badge" alt="taronic777" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/tarun-yadav-47442112b/" target="blank"><img src="https://img.shields.io/twitter/follow/taronic777?logo=twitter&style=for-the-badge" alt="taronic777" /></a> </p>
+<a href="https://twitter.com/taronic777">
+  <img align="left" alt="Tarun Yadav | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/tarun-yadav-47442112b/">
+  <img align="left" alt="Tarun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/	fsb7mic7rraqbxpfs02m29eed">
+  <img align="left" alt="Tarun's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+
 
 
 - 🔭 I’m currently working on **Transfer Learning Project**
