@@ -11,7 +11,7 @@
   <img align="left" alt="Tarun's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-
+<br>
 
 - 🔭 I’m currently working on **Transfer Learning Project**
 
