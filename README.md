@@ -2,6 +2,7 @@
 <h3 align="center">My affection toward AI fascinates me to learn about ML, DL, NLP and Computer Vision</h3>
 
 <p align="left"> <a href="https://twitter.com/taronic777" target="blank"><img src="https://img.shields.io/twitter/follow/taronic777?logo=twitter&style=for-the-badge" alt="taronic777" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tarun-yadav-47442112b/)
 
 - 🔭 I’m currently working on **Transfer Learning Project**
 
