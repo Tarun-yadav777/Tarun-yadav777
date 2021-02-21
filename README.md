@@ -33,7 +33,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Tarun-yadav777](github.com/Tarun-yadav777)
 
-- 📝 I regularly write articles on [inblog.in/@tarunrao777](inblog.in/@tarunrao777)
+- 📝 I  write articles on [inblog.in/@tarunrao777](inblog.in/@tarunrao777)
 
 - 💬 Ask me about **Anything u like.**
 
