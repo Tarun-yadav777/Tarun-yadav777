@@ -39,7 +39,7 @@
 
 - 📫 How to reach me **tarun.rao777@gmail.com**
 
-- ⚡ Fun fact **I think m Pro Gamer**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
