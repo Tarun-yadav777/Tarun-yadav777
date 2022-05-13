@@ -7,9 +7,6 @@
 <a href="https://www.linkedin.com/in/tarun-yadav-47442112b/">
   <img align="left" alt="Tarun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/	fsb7mic7rraqbxpfs02m29eed">
-  <img align="left" alt="Tarun's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 <br>
 
