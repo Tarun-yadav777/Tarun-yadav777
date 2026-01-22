@@ -4,7 +4,7 @@
 <a href="https://twitter.com/taronic777">
   <img align="left" alt="Tarun Yadav | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/tarun-yadav-47442112b/">
+<a href="https://www.linkedin.com/in/tyadavrao/">
   <img align="left" alt="Tarun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
